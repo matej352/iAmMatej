@@ -28,7 +28,7 @@ Feel free to check out my projects!
 
 ## Still learning ⚡
 
-![](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/React-ED8B00?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 
