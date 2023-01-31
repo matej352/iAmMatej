@@ -1,9 +1,10 @@
 ![Social banner for domamaric](./header.gif)
 # Hello there! 👋
 
-My name is Domagoj and I am currently studying computing at [**Faculty of Electrical Engineering and Computing**](https://www.fer.unizg.hr/). I am from Sinj but I currently live in Zagreb.
+My name is Matej and I am finishing my studies in computing at [**Faculty of Electrical Engineering and Computing**](https://www.fer.unizg.hr/).
+I am a Full-Stack web developer, competitive, highly motivated and eager to learn new technologies.
+Feel free to check out my projects!
 
-I have acquired technical knowledge and skills from my course as well as practical knowledge by being part of student association BEST Zagreb.
 
 ## Skills 💻
 
