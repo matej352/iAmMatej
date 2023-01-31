@@ -31,7 +31,7 @@ Feel free to check out my projects!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matej352&theme=dracula)
 
 <!--
-**domamaric/domamaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**matej352/matej352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
