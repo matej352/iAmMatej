@@ -1,8 +1,9 @@
 ![Social banner for domamaric](./header.gif)
 # Hello there! 👋
 
-My name is Matej and I am finishing my studies in computing at [**Faculty of Electrical Engineering and Computing**](https://www.fer.unizg.hr/).
-I am a Full-Stack web developer, competitive, highly motivated and eager to learn new technologies.
+My name is **Matej** and I am finishing my studies in computing at [**Faculty of Electrical Engineering and Computing**](https://www.fer.unizg.hr/).
+<br />
+I am a **Full-Stack** web developer, competitive, highly motivated and eager to learn new technologies.
 Feel free to check out my projects!
 
 
